@@ -10,9 +10,9 @@ Requirements
    - C++ compiler (e.g., g++, clang++)
    - Basic understanding of C++ programming.
 
-Example Usage
-    Enter the value of N :3
-    Enter the number 1 :5
-    Enter the number 2 :8
-    Enter the number 3 :15
+Example Usage                                                                                                                                                                           
+    Enter the value of N :3                                                                                                                                       
+    Enter the number 1 :5                                                                                                                                  
+    Enter the number 2 :8                                                                                                                                 
+    Enter the number 3 :15                                                                                                                                      
     Average is 9.33333
